@@ -1,0 +1,2 @@
+# AutomaticBOMGenerationToolReleases
+ 集成BOM工具升级包
